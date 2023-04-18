@@ -1,12 +1,8 @@
-### Git - lokales Repo erstellen
+### Git - lokales repository erstellen
 
-## Git - lokales repository erstellen
+**mkdir** - Ordner erstellen, der das Repo werden soll
 
-| Befehl                  | Beschreibung                                        |
-| ----------------------- | --------------------------------------------------- |
-| Git init                | Den erstellten Ordner dann als repository erstellen |
-| main wird dann erstellt |
-| .gitignore              | immer als erstes erstellen                          |
+**git init** - den erstellten Ordner dann in repo umwandeln
+.git wird dann erstellt, der ordner ist jetzt ein repo und mit _"main"_ markiert
 
-                            eine Datei, die nicht wichtig ist wird dann erstellt
-                            In die .gitignore Datei dann .DS_Store reinschreiben |
+**.gitignore** - Immer als erste Datei erstellen. Ist nur für mich lokal. .gitignore erstellen und dann .DS_Store reinschreiben
