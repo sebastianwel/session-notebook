@@ -17,4 +17,4 @@
 
 **Git switch main** - Wieder zurück zum main branch switchen
 
-**Git switch branchname** - Gzurück wechseln auf anderen schon erstellten Branch
+**Git switch branchname** - zurück wechseln auf anderen schon erstellten Branch
