@@ -1,3 +1,5 @@
+## Das ist mein kleines command Cheat-Sheet
+
 ### Git - lokales repository erstellen
 
 **mkdir** - Ordner erstellen, der das Repo werden soll
@@ -7,4 +9,12 @@
 
 **.gitignore** - Immer als erste Datei erstellen. Ist nur für mich lokal. .gitignore erstellen und dann .DS_Store reinschreiben
 
-**nur ein Test** - jetzt pushe ich was auf Github und pulle es lokal
+---
+
+## Git Branches & Git Pull request
+
+**Git switch -c [Branchname]** - Branch erstellen und in neuen Branch wechseln (-c steht hierbei für create)
+
+**Git switch main** - Wieder zurück zum main branch switchen
+
+**Git switch branchname** - Gzurück wechseln auf anderen schon erstellten Branch
